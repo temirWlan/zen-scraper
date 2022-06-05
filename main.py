@@ -12,7 +12,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
 
-# ctypes.windll.kernel32.SetConsoleTitleW('Zen Articles Parser | by Ev1l Samur0id')
 
 class NoContentException(Exception):
     pass
